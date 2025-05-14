@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan
 - 👀 I’m interested in drumming.
-- 🌱 I recently finished a Masters in Data Science (class: Merit)
+- 🌱 I recently finished a Masters in Data Science.
 - 💞️ I’m looking to collaborate on.....Data Science, AI for Music, whatever I can:)
 - 📫 How to reach me ...ibantxodrums@gmail.com
 
